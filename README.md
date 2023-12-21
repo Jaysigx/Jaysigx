@@ -1,8 +1,7 @@
 # Hello, I'm Jaysigx! 👋
 
-<div align="left">
-  <img height="250" src="https://i.imgur.com/xLcIIci.mp4" />
-</div>
+![Untitled-1_4](https://github.com/Jaysigx/Jaysigx/assets/50681690/1bc71c22-057b-454e-934a-4dfa4eca7550)
+
 
 I'm a passionate developer who studied game design and animation.
 
