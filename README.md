@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, I'm Jaysigx! 👋
 
-<!--
-**Jaysigx/Jaysigx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img height="250" src="https://i.imgur.com/xLcIIci.mp4" />
+</div>
 
-Here are some ideas to get you started:
+I'm a passionate developer who studied game design and animation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- [Sequester Studios](https://discord.gg/ZWKG5AB7r2)
+
+Feel free to explore my repositories and connect with me!
+
+![Jaysigx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaysigx&show_icons=true&theme=radical)
