@@ -5,7 +5,7 @@
 I'm a passionate developer who studied game design and animation.
 
 ## 📫 How to reach me
-- [Sequester Studios](https://discord.gg/ZWKG5AB7r2)
+- [Graphinity Lab](https://graphinitylab.com)
 - [KO-FI](https://ko-fi.com/jaysigx)
 
 Feel free to explore my repositories and connect with me!
