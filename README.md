@@ -1,20 +1,12 @@
 <div align="center">
-  <a href="https://graphinitylab.com" target="_blank">
-    <img src="https://i.imgur.com/Gj3Hn5q.png" alt="Graphinity Lab Logo/Strategic Icon" width="120" />
-  </a>
   <br>
+  <img src="https://imgur.com/0XLWyIA.gif" alt="Jaysigx Logo" />
   <br>
   
-  <h1>🚀 JAYSIGX: High-Performance Strategic Operator</h1>
+  <h1>JAYSIGX: High-Performance Strategic Operator</h1>
   
   <p>
     <strong>Driving Graphinity Lab toward revenue generation, operational scaling, and high-leverage growth.</strong>
-  </p>
-  
-  <p>
-    <a href="https://jaskarangill.com/" target="_blank">🌐 Portfolio</a> •
-    <a href="https://graphinitylab.com" target="_blank">🏢 Graphinity Lab</a> •
-    <a href="jaskaran@graphinitylab.com">📧 Contact</a>
   </p>
   
   <p>
