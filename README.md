@@ -36,5 +36,4 @@ My work is centered on building resilient, scalable systems that generate recurr
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Jaysigx&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Jaysigx's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.vercel.app/api?user=Jaysigx&theme=onedark&hide_border=true" alt="Jaysigx's GitHub Streak" />
 </p>
