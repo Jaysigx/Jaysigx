@@ -74,12 +74,8 @@ Monetization • Productized Services • Pricing • Lead Gen • Scaling
   - *Tech:* SaaS Architecture, Revenue Systems
   - *Status:* 🟢 Active Development
 
-* **[Placeholder Project Name]** - Building a high-converting, component-driven marketing site
-  - *Tech:* Next.js, Tailwind, CRO
-  - *Status:* 🟡 In Progress
-
-* **[Placeholder Automation Tool]** - Developing a Node.js tool to automate client reporting
-  - *Tech:* Node.js, System Automation
+* **[Graphinity Suite]** - A modular SaaS marketplace - Pick what you want for your business
+  - *Tech:* React, Nest.js, Graphql
   - *Status:* 🟡 In Progress
 
 ---
@@ -94,11 +90,7 @@ Monetization • Productized Services • Pricing • Lead Gen • Scaling
   
 </div>
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Jaysigx&theme=onedark&hide_border=true" alt="GitHub Streak" />
-  
-</div>
+
 
 ---
 
